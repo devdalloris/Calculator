@@ -5,4 +5,5 @@
     <color name="btn_color">#323232</color>
     <color name="background_color">#202020</color>
     <color name="my_light_primary">#202020</color>
+    <color name="my_light">#202020</color>
 </resources>
